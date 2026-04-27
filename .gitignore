@@ -1,42 +1,6 @@
-# Python cache
 __pycache__/
-*.pyc
-
-# Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-# Local data
-data/*.csv
-data/*.zip
-
-# Virtual environments
-venv/
-env/
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Remote README (optional)
-README.md
-# Python cache
-__pycache__/
-*.pyc
-
-# Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-# Local data
-data/*.csv
-data/*.zip
-
-# Virtual environments
-venv/
-env/
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Remote README (optional)
-README.md
+.vscode/
+data/
+*.csv
+*.parquet
+*.log
