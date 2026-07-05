@@ -1,9 +1,9 @@
 # Signal Robustness & Overfitting Diagnostics
 
-**Author:** dzand-cmd  
-**Project Type:** Quantitative Research / Algorithmic Trading  
+**Author:** Dzandu Selorm(dzand-cmd)  
+**Project Type:** Quantitative Research  
 **Language:** Python  
-**Status:** In Progress  
+**Status:** Complete  
 
 ---
 
